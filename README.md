@@ -1,2 +1,2 @@
-# Animated Command Block Skin Pack by OfficialOPMC
-# Don't use in servers or you might get banned 
+# Dynamic Skin Pack by OfficialOPMC
+# Don't use in servers if you don't want to get banned
