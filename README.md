@@ -1,1 +1,1 @@
-# Animated-Command-Block-Skin-Pack
+# Animated Command Block Skin Pack by OfficialOPMC
